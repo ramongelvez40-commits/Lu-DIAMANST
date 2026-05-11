@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="#000000">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RECOUVRER VOS DIAMANTS 💎"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginBottom="30dp" />
+
+    <EditText
+        android:id="@+id/id_joueur"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Entrez votre ID Free Fire"
+        android:textColorHint="#CCCCCC"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#007BFF" />
+
+    <Button
+        android:id="@+id/btn_demander"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DEMANDER LE TRANSFERT"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#28A745" />
+
+</LinearLayout>
