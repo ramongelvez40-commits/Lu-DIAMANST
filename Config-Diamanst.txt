@@ -1,0 +1,7 @@
+ID APP:ca-app-pub-9974383174023079~8982879238
+ID BLOC:ca-app-pub-9974383174023079/9028707151
+REGARDEZ 6 publicités=Gagnez 3 Diamants.
+CONFIGURATION: 3 pubs + 5 min Combat + 3 pubs.
+PAUSE: 60 minutes entre chaque session.
+Bonus de bienvenue=20 Diamants.
+Retrait minimum=100 Diamants.
